@@ -1,19 +1,3 @@
-# Welcome!
-
-When I first learned Python nearly 25 years ago, I was immediately
-struck by how I could productively apply it to all sorts of messy work
-projects. Fast-forward a decade and I found myself teaching others the
-same fun.  The result of that teaching is this course--A no-nonsense
-treatment of Python that has been actively taught to more than 400
-in-person groups since 2007.  Traders, systems admins, astronomers,
-tinkerers, and even a few hundred rocket scientists who used Python to
-help land a rover on Mars--they've all taken this course. Now, I'm
-pleased to make it available under a Creative Commons license. Enjoy!
-
-[GitHub Pages](https://dabeaz-course.github.io/practical-python) | [GitHub Repo](https://github.com/dabeaz-course/practical-python).
-
---David Beazley ([https://dabeaz.com](https://dabeaz.com)), [@dabeaz](https://twitter.com/dabeaz)
-
 ## What is This?
 
 The material you see here is the heart of an instructor-led Python
@@ -121,10 +105,3 @@ it wasn't covered, it was probably because it was once covered and it
 caused everyone's head to explode or there was never enough time to
 cover it in the first place.   Also, this is a course, not a Python
 reference manual.
-
-### Q: Do you accept pull requests?
-
-Bug reports are appreciated and may be filed through the
-[issue tracker](https://github.com/dabeaz-course/practical-python/issues).
-Pull requests are not accepted except by invitation. Please file an issue first.
-
