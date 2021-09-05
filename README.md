@@ -105,3 +105,5 @@ it wasn't covered, it was probably because it was once covered and it
 caused everyone's head to explode or there was never enough time to
 cover it in the first place.   Also, this is a course, not a Python
 reference manual.
+
+All credit goes to github.com/dabeaz-course
